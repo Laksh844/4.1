@@ -1,2 +1,2 @@
 # 4.1
-!()[Screenshot.png]
+![](Screenshot.png)
